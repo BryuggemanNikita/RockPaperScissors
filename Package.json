@@ -1,0 +1,5 @@
+{
+    "scripts":{
+        "start":"cd .\\src\\Main && npx tsc main.ts && node main.js"
+    }
+}
