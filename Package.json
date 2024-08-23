@@ -1,5 +1,8 @@
 {
-    "scripts":{
-        "start":"cd .\\src\\Main && npx tsc main.ts && node main.js"
+    "scripts": {
+        "start": "cd .\\src\\Main && npx tsc main.ts && node main.js"
+    },
+    "devDependencies": {
+        "typescript": "^5.5.4"
     }
 }
